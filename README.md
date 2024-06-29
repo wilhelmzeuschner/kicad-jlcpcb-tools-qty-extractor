@@ -14,5 +14,7 @@ pip install pandas
 
 # Usage
 I run the script in VS code.
-Currently, the path to the csv file is hard coded in the script. The csv file needs to be in the same folder as the script.
-This will be fixed.
+When runing the script, an open file dialog opens.
+Pick your BOM .csv file that kicad-jlcpcb-tools generated.
+Now the script processed the file and saves the processed file in the original file's directory.
+You can now upload this file via LSCS' BOM tool. :)
