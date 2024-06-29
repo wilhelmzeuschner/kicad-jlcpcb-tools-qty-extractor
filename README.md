@@ -9,7 +9,7 @@ This small script reads the BOM file, processes it by adding a quantity column a
 Recent version of Python 3
 ## Python packages
 pandas
-## How to install:
+### How to install:
 pip install pandas
 
 I run the script in VS code.
