@@ -12,4 +12,7 @@ pandas
 ### How to install:
 pip install pandas
 
+# Usage
 I run the script in VS code.
+Currently, the path to the csv file is hard coded in the script. The csv file needs to be in the same folder as the script.
+This will be fixed.
