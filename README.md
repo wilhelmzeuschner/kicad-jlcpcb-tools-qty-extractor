@@ -17,4 +17,4 @@ I run the script in VS code.
 When runing the script, an open file dialog opens.
 Pick your BOM .csv file that kicad-jlcpcb-tools generated.
 Now the script processed the file and saves the processed file in the original file's directory.
-You can now upload this file via LSCS' BOM tool. :)
+You can now upload this file via LCSC's BOM tool. :)
